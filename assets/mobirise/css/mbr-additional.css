@@ -1864,6 +1864,9 @@ body {
 .cid-qTPlSfVOID .btn-social {
   border: none !important;
 }
+.cid-qTPlSfVOID .btn-social {
+  border-radius: 0 !important;
+}
 .cid-qTPlSfVOID [class^="socicon-"]:before,
 .cid-qTPlSfVOID [class*=" socicon-"]:before {
   line-height: 44px;
@@ -2396,6 +2399,9 @@ body {
 }
 .cid-qTPZIuKDKk .btn-social {
   border: none !important;
+}
+.cid-qTPZIuKDKk .btn-social {
+  border-radius: 0 !important;
 }
 .cid-qTPZIuKDKk [class^="socicon-"]:before,
 .cid-qTPZIuKDKk [class*=" socicon-"]:before {
